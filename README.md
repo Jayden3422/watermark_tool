@@ -1,6 +1,6 @@
 # Diagonal Watermark Tool (Win11 / PySide6)
 
-[中文 README →](README.zh.md)
+[中文 README →](README_zh.md)
 
 A small GUI tool to add **repeating diagonal text watermarks** to images. The left panel contains scrollable controls, and the right panel shows a live preview (auto-scaled to keep the whole image visible). Supports bilingual UI, Windows system fonts, and custom font-file override.
 

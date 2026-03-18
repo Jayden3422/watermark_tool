@@ -20,7 +20,7 @@
 
 ---
 
-## 目录结构（建议）
+## 目录结构
 
 ```
  ├─ app.py
@@ -82,7 +82,7 @@ python app.py
 
 ------
 
-## 打包（可选：PyInstaller）
+## 打包
 
 > `requirements.txt` 已包含 `pyinstaller`
 

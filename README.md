@@ -22,7 +22,7 @@ A small GUI tool to add **repeating diagonal text watermarks** to images. The le
 
 ---
 
-## Suggested Project Layout
+## Project Layout
 ```
  ├─ app.py
  ├─ watermark_core.py
@@ -84,7 +84,7 @@ python app.py
 
 ------
 
-## Packaging (Optional: PyInstaller)
+## Packaging
 
 `pyinstaller` is included in `requirements.txt`.
 
